@@ -1,0 +1,7 @@
+{
+  "name": "台股投資研究系統",
+  "description": "跨平台台股投資研究系統：即時行情、技術分析K線、斐波那契回撤與擴展、法人資券籌碼、AI盤後研究、當沖顧問、消息雷達、個股基本面及雙軌策略中樞與四大研究筆記。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
